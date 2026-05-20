@@ -1,0 +1,68 @@
+{
+  "query": "query intent expansion terminology knowledge retrieval evaluation benchmark 2025",
+  "domain": "ai_research",
+  "timestamp": "2026-03-14T03:46:34.293Z",
+  "total_articles": 10,
+  "articles": [
+    {
+      "title": "[PDF] Knowledge-Aware Query Expansion with Large Language Models ...",
+      "url": "https://aclanthology.org/2025.naacl-long.216.pdf",
+      "filepath": "data\\articles\\ai_research\\01__PDF__Knowledge_Aware_Query_Expansion_with_Large_L.md",
+      "score": 0.5694942
+    },
+    {
+      "title": "[PDF] RFG Framework: Retrieval-Feedback-Grounded Multi-Query ...",
+      "url": "https://www.scitepress.org/Papers/2025/138369/138369.pdf",
+      "filepath": "data\\articles\\ai_research\\02__PDF__RFG_Framework__Retrieval_Feedback_Grounded_M.md",
+      "score": 0.55796635
+    },
+    {
+      "title": "[PDF] A Survey of Techniques for Improving Information Retrieval through ...",
+      "url": "https://www.mecs-press.org/ijitcs/ijitcs-v17-n2/IJITCS-V17-N2-7.pdf",
+      "filepath": "data\\articles\\ai_research\\03__PDF__A_Survey_of_Techniques_for_Improving_Informa.md",
+      "score": 0.55478466
+    },
+    {
+      "title": "Text-to-SQL Benchmarks for Enterprise Realities: Under Massive...",
+      "url": "https://openreview.net/forum?id=gXkIkSN2Ha",
+      "filepath": "data\\articles\\ai_research\\04_Text_to_SQL_Benchmarks_for_Enterprise_Realities__U.md",
+      "score": 0.50022036
+    },
+    {
+      "title": "Semantic Query Expansion for Smarter Information Retrieval using ...",
+      "url": "https://medium.com/@asvdinesh18/semantic-query-expansion-for-smarter-information-retrieval-using-word-embeddings-a9e35380a842",
+      "filepath": "data\\articles\\ai_research\\05_Semantic_Query_Expansion_for_Smarter_Information_R.md",
+      "score": 0.49231076
+    },
+    {
+      "title": "[PDF] Word-level Importance Re-weighting for Query Expansion",
+      "url": "https://aclanthology.org/2025.findings-acl.434.pdf",
+      "filepath": "data\\articles\\ai_research\\06__PDF__Word_level_Importance_Re_weighting_for_Query.md",
+      "score": 0.45101276
+    },
+    {
+      "title": "SQL Server 2025: Translating Complex Queries into Natural ...",
+      "url": "https://www.trustedtechteam.com/blogs/sql-server/sql-server-2025-complex-queries-to-natural-language?srsltid=AfmBOorsTvQhyfupVxv_nyOtGwZTUWRi5UZHCfuixY4UdllsX0mpTNCK",
+      "filepath": "data\\articles\\ai_research\\07_SQL_Server_2025__Translating_Complex_Queries_into_.md",
+      "score": 0.42935818
+    },
+    {
+      "title": "Automatic query expansion for enhancing document retrieval system ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169023X25000631",
+      "filepath": "data\\articles\\ai_research\\08_Automatic_query_expansion_for_enhancing_document_r.md",
+      "score": 0.42262435
+    },
+    {
+      "title": "[PDF] Query Expansion Techniques for Information Retrieval: a Survey",
+      "url": "https://twiki.di.uniroma1.it/pub/Estrinfo/WebHome/Query_Expansion_Techniques_for_Information_Retriev_1.pdf",
+      "filepath": "data\\articles\\ai_research\\09__PDF__Query_Expansion_Techniques_for_Information_R.md",
+      "score": 0.38901308
+    },
+    {
+      "title": "Running Evals on a Bloated RAG Pipeline | Towards Data Science",
+      "url": "https://towardsdatascience.com/doing-evals-on-a-bloated-rag-pipeline/",
+      "filepath": "data\\articles\\ai_research\\10_Running_Evals_on_a_Bloated_RAG_Pipeline___Towards_.md",
+      "score": 0.35327253
+    }
+  ]
+}

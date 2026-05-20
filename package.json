@@ -1,0 +1,40 @@
+{
+  "name": "evoindex",
+  "version": "3.0.0",
+  "description": "EvoIndex 3.0 — Learned Hybrid Index for Knowledge Retrieval | 树索引 + 向量语义 + 图增强 + CMA-ES 自进化",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "build": "node src/index.mjs build",
+    "query": "node src/index.mjs query",
+    "enhance": "node src/index.mjs enhance",
+    "vectorize": "node src/index.mjs vectorize",
+    "test": "node test/p0_test.mjs",
+    "test:rrf": "node test/rrf_fusion_test.mjs",
+    "test:embed": "node test/embedding_test.mjs"
+  },
+  "keywords": [
+    "rag",
+    "retrieval",
+    "graphrag",
+    "knowledge-graph",
+    "llm",
+    "vector-search",
+    "hybrid-retrieval",
+    "self-evolution"
+  ],
+  "author": "耗电马喽 🐎⚡",
+  "license": "MIT",
+  "dependencies": {
+    "graphology": "^0.25.4",
+    "graphology-layout": "^0.6.1",
+    "vectordb": "^0.13.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "optionalDependencies": {
+    "@lancedb/vectordb-linux-x64-gnu": "0.13.0",
+    "@lancedb/vectordb-win32-x64-msvc": "0.13.0"
+  }
+}
